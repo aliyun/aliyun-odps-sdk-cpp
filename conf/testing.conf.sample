@@ -1,0 +1,13 @@
+{
+    "AccessId": "<your_access_id>",
+    "AccessKey": "<your_access_key>",
+    "AccessType": "aliyun",
+    "OdpsEndpoint": "http://<your_odps_endpoint>",
+    "ProjectName": "<your_project_name>",
+    "SchemaEnabledProject": "<your_schema_enabled_project>",
+    "TestAccessId": "<your_test_access_id>",
+    "TestAccessKey": "<your_test_access_key>",
+    "TestAccessType": "aliyun",
+    "TestUser": "<your_test_user>",
+    "TunnelEndpoint": "http://<your_tunnel_endpoint>/"
+}
